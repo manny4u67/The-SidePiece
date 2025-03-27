@@ -1,0 +1,18 @@
+#pragma once
+
+/*
+#define VENDOR_ID       0xFEED
+#define PRODUCT_ID      0x6060
+#define DEVICE_VER      0x0001
+#define MANUFACTURER    "YourName"
+#define PRODUCT         "MacroPad"
+*/
+
+#define MATRIX_COLS 2
+#define MATRIX_ROWS 5
+#define DIODE_DIRECTION COL2ROW
+
+#define MATRIX_COL_PINS { GP1 , GP2 }
+#define MATRIX_ROW_PINS { GP3 , GP4 , GP5 , GP6 , GP7 }
+
+#define USB_POLLING_INTERVAL_MS 1
