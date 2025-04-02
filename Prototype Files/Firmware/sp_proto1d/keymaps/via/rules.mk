@@ -1,0 +1,5 @@
+MCU = RP2040
+BOOTLOADER = rp2040
+CONSOLE_ENABLE = no
+COMMAND_ENABLE = no
+VIA_ENABLE = yes  # If you want VIA support
