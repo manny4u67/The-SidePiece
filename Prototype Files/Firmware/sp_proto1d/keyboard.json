@@ -10,6 +10,7 @@
         "console": false,
         "extrakey": true,
         "mousekey": true,
+        "oled": true,
         "nkro": true
     },
     "matrix_pins": {
@@ -20,7 +21,6 @@
         "pin_a":["GP10", "GP12" ],
         "pin_b":["GP11", "GP13"]
     },
-
     "processor": "RP2040",
     "url": "",
     "usb": {
