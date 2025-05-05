@@ -1,4 +1,4 @@
-24787332626335408
+24790823897373435
 1_my_custom_libary_pretty
 2N7002-SOT23
 <b>SOT-23</b>
@@ -49,6 +49,13 @@ FS8205
 6
 6
 1_my_custom_libary_pretty
+Kailh_socket_PG1350
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+2
+2
+1_my_custom_libary_pretty
 LED_WS2812-2020
 
 
@@ -71,6 +78,13 @@ LED RGB NeoPixel Mini PLCC-4 3535
 4
 1_my_custom_libary_pretty
 MODULE_DM-OLED096-636
+
+
+0
+4
+4
+1_my_custom_libary_pretty
+OLED
 
 
 0
