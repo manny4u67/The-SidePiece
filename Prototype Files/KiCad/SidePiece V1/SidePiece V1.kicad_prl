@@ -5,7 +5,7 @@
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
-    "high_contrast_mode": 1,
+    "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
       "images": 0.4699999988079071,
@@ -28,27 +28,8 @@
       "vias": true,
       "zones": true
     },
-    "visible_items": [
-      "vias",
-      "footprint_text",
-      "footprint_anchors",
-      "ratsnest",
-      "grid",
-      "footprints_front",
-      "footprints_back",
-      "footprint_values",
-      "footprint_references",
-      "tracks",
-      "drc_errors",
-      "drawing_sheet",
-      "pads",
-      "zones",
-      "drc_warnings",
-      "drc_exclusions",
-      "conflict_shadows",
-      "shapes"
-    ],
-    "visible_layers": "00000000_00000000_55555555_57555555",
+    "visible_items": [],
+    "visible_layers": "5555555_57555555",
     "zone_display_mode": 0
   },
   "git": {
@@ -59,7 +40,7 @@
   },
   "meta": {
     "filename": "SidePiece V1.kicad_prl",
-    "version": 5
+    "version": 3
   },
   "net_inspector_panel": {
     "col_hidden": [
